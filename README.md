@@ -5,9 +5,7 @@ En el siguiente proyecto se meustra la técnica del web scraping para extraer in
 El codigo fue hecho con Python, es por eso que antes de descargar el proyecto es necesario tener instalado este lenguaje de programación, ademas contar con las librerias
 o paquetes como Selenium, Beautiful Soup y lxlm, en caso de no tenerlas podemos abrir la terminal en visual studio code y escribir lo siguiente: 
 
-$pip install selenium,
- $pip install bs4,
- $pip install lxml
+$pip install selenium,   $pip install bs4,    $pip install lxml
 
 La libreria Selenium utiliza a ChromeDriver, en caso de no tenerlo nos dirigimos al siguiente link https://chromedriver.chromium.org/
 seleccionamos la versión adecuada a nuestro Google Chrome y el sistema operativo que tiene nuestro computador, de acuerdo a esto requerimientos procedemos a la instalación. Es importante 
